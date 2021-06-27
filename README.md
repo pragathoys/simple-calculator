@@ -3,9 +3,10 @@ This is a project which demonstrates how to build a simple DAPP with the help of
 
 # Prerequisities
 
-- install latest nodjs
+- install latest nodejs
 - install npm
 - install truffle
+
 ```
 npm install -g truffle
 ```
@@ -14,3 +15,7 @@ npm install -g truffle
 ```
 npm install -g ganache-cli
 ```
+
+# What the DAPP does
+
+It provides a way to make simple calculation (addition,subtraction) and store the result at the blockchain.
