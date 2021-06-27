@@ -19,3 +19,12 @@ npm install -g ganache-cli
 # What the DAPP does
 
 It provides a way to make simple calculation (addition,subtraction) and store the result at the blockchain.
+
+# Methods inside the smart contract
+
+You can find the following methods inside the smart contract:
+- add
+- subtrack
+- set
+- get
+- clear
